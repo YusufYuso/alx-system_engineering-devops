@@ -1,2 +1,3 @@
 File: 0-current_working_directory >> "Script to printinig the absolute path of the current working dirctory"
 File: 1-listit >> "Script to printing the contents list of your current directory"
+File: 2-bring_me_home >> "Script that changes the working directory to the user’s home directory."
